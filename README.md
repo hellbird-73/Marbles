@@ -212,4 +212,4 @@ Marbles is offered as a **full free version**, with all features and updates inc
 Download Marbles today and dive into a world of colorful challenges and fun!
 
 ---
-**Last updated:** 2026-10-17 19:07:20 UTC
+**Last updated:** 2026-10-17 22:04:07 UTC
